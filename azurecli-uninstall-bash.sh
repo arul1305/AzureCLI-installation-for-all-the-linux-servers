@@ -1,4 +1,4 @@
-
+#!/bin/bash
 set -e
 
 # Detect OS and Version
